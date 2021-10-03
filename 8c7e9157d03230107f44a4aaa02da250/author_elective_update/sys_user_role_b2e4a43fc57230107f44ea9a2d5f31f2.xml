@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_reembolso.Aprovador</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Aprovador</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 10:43:06</sys_created_on>
+        <sys_id>b2e4a43fc57230107f44ea9a2d5f31f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_reembolso.Aprovador</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_update_name>sys_user_role_b2e4a43fc57230107f44ea9a2d5f31f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 10:43:06</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</application>
+        <file_path/>
+        <instance_id>22c1d2e9db36789499ea353a68961980</instance_id>
+        <instance_name>qrc3-aug-677-035</instance_name>
+        <name>sys_user_role_b2e4a43fc57230107f44ea9a2d5f31f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_snc_reembolso.Aprovador</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>Aprovador</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-01 10:43:06</sys_created_on><sys_id>b2e4a43fc57230107f44ea9a2d5f31f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_reembolso.Aprovador</sys_name><sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package><sys_policy/><sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope><sys_update_name>sys_user_role_b2e4a43fc57230107f44ea9a2d5f31f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-01 10:43:06</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1076138194</payload_hash>
+        <record_name>x_snc_reembolso.Aprovador</record_name>
+        <reverted_from/>
+        <source>407e9157d03230107f44a4aaa02da253</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 10:43:06</sys_created_on>
+        <sys_id>fae4a43fc57230107f44ea9a2d5f31f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c3b7353410000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 10:43:06</sys_updated_on>
+        <type>Role</type>
+        <update_guid>f2e4a43f7f723010be33b28e81d130f7</update_guid>
+        <update_guid_history>f2e4a43f7f723010be33b28e81d130f7:1076138194</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_reembolso.Aprovador">4715a83fc57230107f44ea9a2d5f3101</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 10:43:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>35d107cea96d48b690f585effd270de4</sys_id>
+        <sys_metadata>b2e4a43fc57230107f44ea9a2d5f31f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_reembolso.Aprovador</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_scope_delete display_value="">129bab4e0fe6470082b68a8443cfd4a4</sys_scope_delete>
+        <sys_update_name>sys_user_role_b2e4a43fc57230107f44ea9a2d5f31f2</sys_update_name>
+        <sys_update_version display_value="sys_user_role_b2e4a43fc57230107f44ea9a2d5f31f2">fae4a43fc57230107f44ea9a2d5f31f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 10:43:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>1</order>
+        <published_ref/>
+        <question display_value="Type of Expense">72066667cc3230107f4460f2dc94d84e</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 01:28:47</sys_created_on>
+        <sys_id>be066667cc3230107f4460f2dc94d85f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alimentação</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_update_name>question_choice_be066667cc3230107f4460f2dc94d85f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 01:28:47</sys_updated_on>
+        <text>Alimentação</text>
+        <value>alimenta_o</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=be066667cc3230107f4460f2dc94d85f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</application>
+        <file_path/>
+        <instance_id>22c1d2e9db36789499ea353a68961980</instance_id>
+        <instance_name>qrc3-aug-677-035</instance_name>
+        <name>question_choice_be066667cc3230107f4460f2dc94d85f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>1</order><published_ref/><question display_value="Type of Expense">72066667cc3230107f4460f2dc94d84e</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-01 01:28:47</sys_created_on><sys_id>be066667cc3230107f4460f2dc94d85f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Alimentação</sys_name><sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package><sys_policy/><sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope><sys_update_name>question_choice_be066667cc3230107f4460f2dc94d85f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-01 01:28:47</sys_updated_on><text>Alimentação</text><value>alimenta_o</value></question_choice><fx_price action="delete_multiple" query="id=be066667cc3230107f4460f2dc94d85f"/></record_update>]]></payload>
+        <payload_hash>1253486526</payload_hash>
+        <record_name>Alimentação</record_name>
+        <reverted_from/>
+        <source>407e9157d03230107f44a4aaa02da253</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 01:28:47</sys_created_on>
+        <sys_id>ba066667cc3230107f4460f2dc94d861</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c3977d6b20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 01:28:47</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>f2066667ad3230108683f94fc0f40461</update_guid>
+        <update_guid_history>f2066667ad3230108683f94fc0f40461:1253486526</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Alimentação">82d722e7cc3230107f4460f2dc94d8fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 01:36:38</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>080b242f1c98433e83011eb6809753c4</sys_id>
+        <sys_metadata>be066667cc3230107f4460f2dc94d85f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alimentação</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_parent display_value="Type of Expense">72066667cc3230107f4460f2dc94d84e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_scope_delete display_value="">129bab4e0fe6470082b68a8443cfd4a4</sys_scope_delete>
+        <sys_update_name>question_choice_be066667cc3230107f4460f2dc94d85f</sys_update_name>
+        <sys_update_version display_value="question_choice_be066667cc3230107f4460f2dc94d85f">ba066667cc3230107f4460f2dc94d861</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 01:36:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Reembolsos - New Tab">14ab060cb1c330107f4495643be03956</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 2021-10-02 09:50:46">2abbc20cb1c330107f4495643be039b3</portal_widget>
+        <posx>4</posx>
+        <posy>14</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 12:50:46</sys_created_on>
+        <sys_id>e6bb024cb1c330107f4495643be03926</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>14ab060cb1c330107f4495643be03956</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_e6bb024cb1c330107f4495643be03926</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 15:00:19</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</application>
+        <file_path/>
+        <instance_id>22c1d2e9db36789499ea353a68961980</instance_id>
+        <instance_name>qrc3-aug-677-035</instance_name>
+        <name>sys_grid_canvas_pane_e6bb024cb1c330107f4495643be03926</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Reembolsos - New Tab">14ab060cb1c330107f4495643be03956</grid_canvas><height>14</height><portal_widget display_value="Created 2021-10-02 09:50:46">2abbc20cb1c330107f4495643be039b3</portal_widget><posx>4</posx><posy>14</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-02 12:50:46</sys_created_on><sys_id>e6bb024cb1c330107f4495643be03926</sys_id><sys_mod_count>9</sys_mod_count><sys_name>14ab060cb1c330107f4495643be03956</sys_name><sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package><sys_policy/><sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope><sys_update_name>sys_grid_canvas_pane_e6bb024cb1c330107f4495643be03926</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-02 15:00:19</sys_updated_on><width>4</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-1621957772</payload_hash>
+        <record_name>14ab060cb1c330107f4495643be03956</record_name>
+        <reverted_from/>
+        <source>407e9157d03230107f44a4aaa02da253</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 15:00:19</sys_created_on>
+        <sys_id>546922c4b14730107f4495643be039a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c41852bcd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 15:00:19</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>dc6922c442473010f70b8bb9c7ef45a0</update_guid>
+        <update_guid_history>dc6922c442473010f70b8bb9c7ef45a0:-1621957772,af49ae843b47301058bd4eb51f5578bc:355048143,d2f4aec088473010eb55fedad90262c6:-1524478480,d0f4aec07f47301005a607fa8af1a158:-1719437064,0ae46ec0bf473010b705cf4eddda1709:-1088523779,391c064c2ec3301054f64d944272eb89:775693052,ad0c024cf8c33010f42f1bd7324bc82b:-1655057413,71eb8e0cc6c33010c204653db6eac4bc:1070527636,8cebce0c5ac33010a43d30ab3f316417:-904203205,2abb024c04c330102d6a0348477a3928:-1833681776</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 15:00:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>483d7b9db4114640885cc0526ce89390</sys_id>
+        <sys_metadata>e6bb024cb1c330107f4495643be03926</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>14ab060cb1c330107f4495643be03956</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_scope_delete display_value="">129bab4e0fe6470082b68a8443cfd4a4</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_e6bb024cb1c330107f4495643be03926</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_e6bb024cb1c330107f4495643be03926">546922c4b14730107f4495643be039a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 15:00:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

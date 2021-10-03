@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Approval)">88809e00b10730107f4495643be0392b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Approval)</name>
+        <order/>
+        <parent>cc809e00b10730107f4495643be03926</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 13:11:37</sys_created_on>
+        <sys_id>08809e00b10730107f4495643be0392d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Approval)</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_update_name>sys_sg_button_instance_08809e00b10730107f4495643be0392d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:11:37</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=08809e00b10730107f4495643be0392d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</application>
+        <file_path/>
+        <instance_id>22c1d2e9db36789499ea353a68961980</instance_id>
+        <instance_name>qrc3-aug-677-035</instance_name>
+        <name>sys_sg_button_instance_08809e00b10730107f4495643be0392d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Delete Swipe (Approval)">88809e00b10730107f4495643be0392b</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Delete</label><location>leading_swipe</location><name>Delete (Approval)</name><order/><parent>cc809e00b10730107f4495643be03926</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-02 13:11:37</sys_created_on><sys_id>08809e00b10730107f4495643be0392d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Delete (Approval)</sys_name><sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package><sys_policy/><sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope><sys_update_name>sys_sg_button_instance_08809e00b10730107f4495643be0392d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-02 13:11:37</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=08809e00b10730107f4495643be0392d"/></record_update>]]></payload>
+        <payload_hash>-921343783</payload_hash>
+        <record_name>Delete (Approval)</record_name>
+        <reverted_from/>
+        <source>407e9157d03230107f44a4aaa02da253</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 13:11:43</sys_created_on>
+        <sys_id>e9809240b10730107f4495643be03954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c4121bff30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:11:43</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>65809240df073010dc7356e311ac6054</update_guid>
+        <update_guid_history>65809240df073010dc7356e311ac6054:-921343783</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2021-10-02 13:36:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>23a17073a80d48c0bcc357207d209000</sys_id>
+        <sys_metadata>08809e00b10730107f4495643be0392d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Approval)</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_scope_delete display_value="">129bab4e0fe6470082b68a8443cfd4a4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_08809e00b10730107f4495643be0392d</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_08809e00b10730107f4495643be0392d">e9809240b10730107f4495643be03954</sys_update_version>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:36:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

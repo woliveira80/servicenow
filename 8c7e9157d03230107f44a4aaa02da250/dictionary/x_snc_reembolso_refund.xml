@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Refund" max_length="40" name="x_snc_reembolso_refund" sizeclass="4" type="collection">
+        <element label="Spend Date" mandatory="true" max_length="40" name="spend_date" read_only="true" type="glide_date"/>
+        <element label="Spent Value" mandatory="true" max_length="20" name="spent_value" read_only="true" type="decimal"/>
+        <element choice="2" label="Type of Expense" mandatory="true" max_length="40" name="type_of_expense" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Alimentação" sequence="10" value="Alimentação"/>
+                <element inactive_on_update="false" label="Viagem" sequence="20" value="Viagem"/>
+                <element inactive_on_update="false" label="Estacionamento" sequence="30" value="Estacionamento"/>
+                <element inactive_on_update="false" label="Pedágio" sequence="40" value="Pedágio"/>
+                <element inactive_on_update="false" label="Taxi/Uber" sequence="50" value="Táxi/uber"/>
+            </choice>
+        </element>
+    </element>
+</database>

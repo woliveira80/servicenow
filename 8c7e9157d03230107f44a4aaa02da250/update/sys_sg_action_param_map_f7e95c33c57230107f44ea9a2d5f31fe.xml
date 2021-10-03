@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Refund)">f3e95c33c57230107f44ea9a2d5f31d7</button>
+        <item_parameter display_value="Refund business_service">ffe95c33c57230107f44ea9a2d5f3195</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 09:55:07</sys_created_on>
+        <sys_id>f7e95c33c57230107f44ea9a2d5f31fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ffe95c33c57230107f44ea9a2d5f3195</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_f7e95c33c57230107f44ea9a2d5f31fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 09:55:07</sys_updated_on>
+        <ui_parameter display_value="Service">37e95c33c57230107f44ea9a2d5f31f4</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

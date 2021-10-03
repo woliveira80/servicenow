@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Reembolsos - New Tab">68607a4cb14730107f4495643be03908</canvas_page>
+        <name>Reembolsos - New Tab</name>
+        <page display_value="PA Reembolsos - New Tab">e0607a4cb14730107f4495643be03907</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>adela.cervantsz</sys_created_by>
+        <sys_created_on>2021-10-02 15:30:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a0607a4cb14730107f4495643be0390b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reembolsos - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_update_name>pa_tabs_a0607a4cb14730107f4495643be0390b</sys_update_name>
+        <sys_updated_by>adela.cervantsz</sys_updated_by>
+        <sys_updated_on>2021-10-02 15:30:55</sys_updated_on>
+    </pa_tabs>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons-buttons","FontColor":"#ffffff","BackgroundColor":"#2e2e2e","Value":"e919","Name":"icon-Information-Solid"}</icon>
+        <name>icon-Information-Solid</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 09:50:36</sys_created_on>
+        <sys_id>4ee8dcbfc53230107f44ea9a2d5f31fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-Information-Solid</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_update_name>sys_sg_icon_4ee8dcbfc53230107f44ea9a2d5f31fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 09:50:36</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

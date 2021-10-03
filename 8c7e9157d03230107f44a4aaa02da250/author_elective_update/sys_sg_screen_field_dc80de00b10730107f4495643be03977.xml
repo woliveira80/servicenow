@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>document_id</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>60</order>
+        <record_id_field/>
+        <screen display_value="Details">c0809e00b10730107f4495643be03916</screen>
+        <screen_data_item_table>sysapproval_approver</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 13:11:39</sys_created_on>
+        <sys_id>dc80de00b10730107f4495643be03977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>document_id</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_update_name>sys_sg_screen_field_dc80de00b10730107f4495643be03977</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:11:39</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=dc80de00b10730107f4495643be03977"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</application>
+        <file_path/>
+        <instance_id>22c1d2e9db36789499ea353a68961980</instance_id>
+        <instance_name>qrc3-aug-677-035</instance_name>
+        <name>sys_sg_screen_field_dc80de00b10730107f4495643be03977</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>document_id</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>60</order><record_id_field/><screen display_value="Details">c0809e00b10730107f4495643be03916</screen><screen_data_item_table>sysapproval_approver</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-02 13:11:39</sys_created_on><sys_id>dc80de00b10730107f4495643be03977</sys_id><sys_mod_count>0</sys_mod_count><sys_name>document_id</sys_name><sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package><sys_policy/><sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope><sys_update_name>sys_sg_screen_field_dc80de00b10730107f4495643be03977</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-02 13:11:39</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=dc80de00b10730107f4495643be03977"/></record_update>]]></payload>
+        <payload_hash>-520119001</payload_hash>
+        <record_name>document_id</record_name>
+        <reverted_from/>
+        <source>407e9157d03230107f44a4aaa02da253</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 13:11:43</sys_created_on>
+        <sys_id>e1809240b10730107f4495643be03976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c4121c12c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:11:43</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>6d8092409107301089c15b8dc5bada75</update_guid>
+        <update_guid_history>6d8092409107301089c15b8dc5bada75:-520119001</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2021-10-02 13:41:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>29c1108c50b34cb3b47cea4d7447ee31</sys_id>
+        <sys_metadata>dc80de00b10730107f4495643be03977</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>document_id</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_scope_delete display_value="">129bab4e0fe6470082b68a8443cfd4a4</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_dc80de00b10730107f4495643be03977</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_dc80de00b10730107f4495643be03977">e1809240b10730107f4495643be03976</sys_update_version>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2021-10-02 13:41:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

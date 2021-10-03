@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="spend_date" label="Spend Date" language="en" table="x_snc_reembolso_refund">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>spend_date</element>
+            <help/>
+            <hint/>
+            <label>Spend Date</label>
+            <language>en</language>
+            <name>x_snc_reembolso_refund</name>
+            <plural>Spend Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-30 01:52:32</sys_created_on>
+            <sys_id>cde169d7d03230107f44a4aaa02da2ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Spend Date</sys_name>
+            <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_reembolso_refund_spend_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-30 01:52:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

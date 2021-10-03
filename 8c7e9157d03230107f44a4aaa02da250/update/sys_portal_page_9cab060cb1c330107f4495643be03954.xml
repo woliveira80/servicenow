@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-10-03 22:34:29">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 12:50:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9cab060cb1c330107f4495643be03954</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Reembolsos - DP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_update_name>sys_portal_page_9cab060cb1c330107f4495643be03954</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 14:41:27</sys_updated_on>
+        <title>PA Reembolsos - DP</title>
+        <user/>
+        <view>pa_reembolsos_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Reembolsos - DP">9cab060cb1c330107f4495643be03954</page>
+                <summary>Reembolsos - Aguardando Aprovações</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-10-02 15:00:00</sys_created_on>
+                <sys_id>2b492e84b14730107f4495643be039a6</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-10-02 15:00:00</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2021-10-02 12:00:00">2b492e84b14730107f4495643be039a6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:00:00</sys_created_on>
+                        <sys_id>27492e84b14730107f4495643be039a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:00:00</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-10-02 12:00:00">2b492e84b14730107f4495643be039a6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:00:00</sys_created_on>
+                        <sys_id>63492e84b14730107f4495643be039a7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:00:00</sys_updated_on>
+                        <value>7829a6c0b14730107f4495643be0397f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-10-02 12:00:00">2b492e84b14730107f4495643be039a6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:00:00</sys_created_on>
+                        <sys_id>63492e84b14730107f4495643be039a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:00:00</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-10-02 12:00:00">2b492e84b14730107f4495643be039a6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:00:00</sys_created_on>
+                        <sys_id>6b492e84b14730107f4495643be039a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:00:00</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-10-02 12:00:00">2b492e84b14730107f4495643be039a6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:00:00</sys_created_on>
+                        <sys_id>6f492e84b14730107f4495643be039a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:00:00</sys_updated_on>
+                        <value>Reembolsos - Aguardando Aprovações</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-10-02 12:00:00">2b492e84b14730107f4495643be039a6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:00:00</sys_created_on>
+                        <sys_id>ab492e84b14730107f4495643be039a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:00:00</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-10-02 12:00:00">2b492e84b14730107f4495643be039a6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:00:00</sys_created_on>
+                        <sys_id>af492e84b14730107f4495643be039a7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:00:00</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-10-02 12:00:00">2b492e84b14730107f4495643be039a6</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:00:00</sys_created_on>
+                        <sys_id>e7492e84b14730107f4495643be039a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:00:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Reembolsos - DP">9cab060cb1c330107f4495643be03954</page>
+                <summary>Reembolsos em aberto</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-10-02 14:40:46</sys_created_on>
+                <sys_id>4ee4eac0b14730107f4495643be0393f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-10-02 14:40:47</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-10-02 11:40:46">4ee4eac0b14730107f4495643be0393f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 14:40:46</sys_created_on>
+                        <sys_id>0ee4eac0b14730107f4495643be03941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 14:40:46</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2021-10-02 11:40:46">4ee4eac0b14730107f4495643be0393f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 14:40:46</sys_created_on>
+                        <sys_id>4ae4eac0b14730107f4495643be03941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 14:40:46</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-10-02 11:40:46">4ee4eac0b14730107f4495643be0393f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 14:40:46</sys_created_on>
+                        <sys_id>82e4eac0b14730107f4495643be03942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 14:40:46</sys_updated_on>
+                        <value>Reembolsos em aberto</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-10-02 11:40:46">4ee4eac0b14730107f4495643be0393f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 14:40:46</sys_created_on>
+                        <sys_id>86e4eac0b14730107f4495643be03940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 14:40:46</sys_updated_on>
+                        <value>4fb426c0b14730107f4495643be0396e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-10-02 11:40:46">4ee4eac0b14730107f4495643be0393f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 14:40:46</sys_created_on>
+                        <sys_id>86e4eac0b14730107f4495643be03941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 14:40:46</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-10-02 11:40:46">4ee4eac0b14730107f4495643be0393f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 14:40:47</sys_created_on>
+                        <sys_id>8ee4eac0b14730107f4495643be03942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 14:40:47</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-10-02 11:40:46">4ee4eac0b14730107f4495643be0393f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 14:40:46</sys_created_on>
+                        <sys_id>c2e4eac0b14730107f4495643be03941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 14:40:46</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-10-02 11:40:46">4ee4eac0b14730107f4495643be0393f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 14:40:46</sys_created_on>
+                        <sys_id>cee4eac0b14730107f4495643be03941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 14:40:46</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Reembolsos - DP">9cab060cb1c330107f4495643be03954</page>
+                <summary>Valor Pago R$ (Hoje)</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-10-02 15:14:26</sys_created_on>
+                <sys_id>4f9c2a48b14730107f4495643be039fb</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-10-02 15:14:26</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2021-10-02 12:14:26">4f9c2a48b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:14:26</sys_created_on>
+                        <sys_id>0f9caa48b14730107f4495643be03902</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:14:26</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2021-10-02 12:14:26">4f9c2a48b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:14:26</sys_created_on>
+                        <sys_id>439caa48b14730107f4495643be03904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:14:26</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-10-02 12:14:26">4f9c2a48b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:14:26</sys_created_on>
+                        <sys_id>479caa48b14730107f4495643be03903</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:14:26</sys_updated_on>
+                        <value>Valor Pago R$ (Hoje)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-10-02 12:14:26">4f9c2a48b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:14:26</sys_created_on>
+                        <sys_id>4b9caa48b14730107f4495643be03901</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:14:26</sys_updated_on>
+                        <value>e77ce608b14730107f4495643be0396f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-10-02 12:14:26">4f9c2a48b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:14:26</sys_created_on>
+                        <sys_id>4b9caa48b14730107f4495643be03902</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:14:26</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-10-02 12:14:26">4f9c2a48b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:14:26</sys_created_on>
+                        <sys_id>839caa48b14730107f4495643be03903</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:14:26</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-10-02 12:14:26">4f9c2a48b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:14:26</sys_created_on>
+                        <sys_id>879caa48b14730107f4495643be03902</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:14:26</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-10-02 12:14:26">4f9c2a48b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:14:26</sys_created_on>
+                        <sys_id>cf9caa48b14730107f4495643be03902</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:14:26</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Reembolsos - DP">9cab060cb1c330107f4495643be03954</page>
+                <summary>01 - Tarefas DP</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-10-02 12:52:03</sys_created_on>
+                <sys_id>5d0c024cb1c330107f4495643be03966</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-10-02 12:52:03</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-10-02 09:52:03">5d0c024cb1c330107f4495643be03966</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 12:52:03</sys_created_on>
+                        <sys_id>110c024cb1c330107f4495643be03967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 12:52:03</sys_updated_on>
+                        <value>7696f7f78cf230107f44644a88766a86</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-10-02 09:52:03">5d0c024cb1c330107f4495643be03966</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 12:52:03</sys_created_on>
+                        <sys_id>190c024cb1c330107f4495643be03967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 12:52:03</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-10-02 09:52:03">5d0c024cb1c330107f4495643be03966</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 12:52:03</sys_created_on>
+                        <sys_id>510c024cb1c330107f4495643be03968</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 12:52:03</sys_updated_on>
+                        <value>01 - Tarefas DP</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-10-02 09:52:03">5d0c024cb1c330107f4495643be03966</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 12:52:03</sys_created_on>
+                        <sys_id>550c024cb1c330107f4495643be03967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 12:52:03</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-10-02 09:52:03">5d0c024cb1c330107f4495643be03966</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 12:52:03</sys_created_on>
+                        <sys_id>9d0c024cb1c330107f4495643be03967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 12:52:03</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-10-02 09:52:03">5d0c024cb1c330107f4495643be03966</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 12:52:03</sys_created_on>
+                        <sys_id>d90c024cb1c330107f4495643be03967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 12:52:03</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Reembolsos - DP">9cab060cb1c330107f4495643be03954</page>
+                <summary>02 - Reembolsos</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2021-10-02 15:07:07</sys_created_on>
+                <sys_id>fbeaa208b14730107f4495643be039fb</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2021-10-02 15:07:07</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2021-10-02 12:07:07">fbeaa208b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:07:07</sys_created_on>
+                        <sys_id>37eaa208b14730107f4495643be039fc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:07:07</sys_updated_on>
+                        <value>68f448088c0730107f44644a88766a80</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2021-10-02 12:07:07">fbeaa208b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:07:07</sys_created_on>
+                        <sys_id>37eaa208b14730107f4495643be039fd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:07:07</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2021-10-02 12:07:07">fbeaa208b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:07:07</sys_created_on>
+                        <sys_id>73eaa208b14730107f4495643be039fd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:07:07</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2021-10-02 12:07:07">fbeaa208b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:07:07</sys_created_on>
+                        <sys_id>7feaa208b14730107f4495643be039fd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:07:07</sys_updated_on>
+                        <value>02 - Reembolsos</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2021-10-02 12:07:07">fbeaa208b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:07:07</sys_created_on>
+                        <sys_id>bbeaa208b14730107f4495643be039fd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:07:07</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2021-10-02 12:07:07">fbeaa208b14730107f4495643be039fb</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2021-10-02 15:07:07</sys_created_on>
+                        <sys_id>f7eaa208b14730107f4495643be039fd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2021-10-02 15:07:07</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

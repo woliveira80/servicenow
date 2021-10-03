@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <allow_edit>false</allow_edit>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>true</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Request a refund</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=70c2e51bd03230107f44a4aaa02da287&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <save_options/>
+        <save_script/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <script/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 01:57:50</sys_created_on>
+        <sys_id>70c2e51bd03230107f44a4aaa02da287</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Request a refund</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_update_name>sc_cat_item_producer_70c2e51bd03230107f44a4aaa02da287</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 01:18:00</sys_updated_on>
+        <table_name>x_snc_reembolso_refund</table_name>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="DELETE" query="documentkey=70c2e51bd03230107f44a4aaa02da287"/>
+    <fx_price action="DELETE" query="id=70c2e51bd03230107f44a4aaa02da287"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="BRL">BRL</currency>
+        <field>price</field>
+        <id>70c2e51bd03230107f44a4aaa02da287</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 01:57:50</sys_created_on>
+        <sys_id>2a13e91bd03230107f44a4aaa02da228</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 01:57:50</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</application>
+        <file_path/>
+        <instance_id>22c1d2e9db36789499ea353a68961980</instance_id>
+        <instance_name>qrc3-aug-677-035</instance_name>
+        <name>sc_cat_item_producer_70c2e51bd03230107f44a4aaa02da287</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer"><sc_cat_item_producer action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><allow_edit>false</allow_edit><availability>on_desktop</availability><billable>false</billable><can_cancel>false</can_cancel><category/><checked_out/><cost>0</cost><custom_cart/><delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><mandatory_attachment>true</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Request a refund</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><post_insert_script/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=70c2e51bd03230107f44a4aaa02da287&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><redirect_url>generated_record</redirect_url><request_method/><roles/><save_options/><save_script/><sc_catalogs/><sc_ic_item_staging/><sc_ic_version/><sc_template/><script/><short_description/><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state/><sys_class_name>sc_cat_item_producer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-30 01:57:50</sys_created_on><sys_id>70c2e51bd03230107f44a4aaa02da287</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Request a refund</sys_name><sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package><sys_policy/><sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope><sys_update_name>sc_cat_item_producer_70c2e51bd03230107f44a4aaa02da287</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-01 01:18:00</sys_updated_on><table_name>x_snc_reembolso_refund</table_name><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><view/><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item_producer><sys_translated_text action="delete_multiple" query="documentkey=70c2e51bd03230107f44a4aaa02da287"/><fx_price action="delete_multiple" query="id=70c2e51bd03230107f44a4aaa02da287"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="BRL">BRL</currency><field>price</field><id>70c2e51bd03230107f44a4aaa02da287</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-30 01:57:50</sys_created_on><sys_id>2a13e91bd03230107f44a4aaa02da228</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-30 01:57:50</sys_updated_on><table>sc_cat_item_producer</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-1420363899</payload_hash>
+        <record_name>Request a refund</record_name>
+        <reverted_from/>
+        <source>407e9157d03230107f44a4aaa02da253</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 01:18:01</sys_created_on>
+        <sys_id>059366e3cc3230107f4460f2dc94d810</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c396df9330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 01:18:01</sys_updated_on>
+        <type>Record Producer</type>
+        <update_guid>8d9366e30a3230104252733781d7060f</update_guid>
+        <update_guid_history>8d9366e30a3230104252733781d7060f:-1420363899,5654e95b92323010e4e0538d8788452f:-215696376,3613e91b4b32301054ab7de3c6a25433:648840174,f613e91b84323010efb0511a1029fc2f:-2008626095</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request a refund">959366e3cc3230107f4460f2dc94d850</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 01:18:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_producer">sc_cat_item_producer</sys_db_object>
+        <sys_id>1be194a8f4bb4d248325fad71abc0d10</sys_id>
+        <sys_metadata>70c2e51bd03230107f44a4aaa02da287</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a refund</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_parent display_value="Refund">61ae5557d03230107f44a4aaa02da2d2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_scope_delete display_value="">129bab4e0fe6470082b68a8443cfd4a4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_producer_70c2e51bd03230107f44a4aaa02da287</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_producer_70c2e51bd03230107f44a4aaa02da287">059366e3cc3230107f4460f2dc94d810</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 01:18:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

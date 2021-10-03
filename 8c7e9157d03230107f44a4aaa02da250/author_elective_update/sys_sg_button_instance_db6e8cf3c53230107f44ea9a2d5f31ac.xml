@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="New Button (Refund)">876e8cf3c53230107f44ea9a2d5f3151</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Refund)</name>
+        <order/>
+        <parent>7a6e8cf3c53230107f44ea9a2d5f3115</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 09:04:49</sys_created_on>
+        <sys_id>db6e8cf3c53230107f44ea9a2d5f31ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Refund)</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_update_name>sys_sg_button_instance_db6e8cf3c53230107f44ea9a2d5f31ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 09:04:49</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=db6e8cf3c53230107f44ea9a2d5f31ac"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</application>
+        <file_path/>
+        <instance_id>22c1d2e9db36789499ea353a68961980</instance_id>
+        <instance_name>qrc3-aug-677-035</instance_name>
+        <name>sys_sg_button_instance_db6e8cf3c53230107f44ea9a2d5f31ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="New Button (Refund)">876e8cf3c53230107f44ea9a2d5f3151</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>New</label><location>top</location><name>New (Refund)</name><order/><parent>7a6e8cf3c53230107f44ea9a2d5f3115</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-01 09:04:49</sys_created_on><sys_id>db6e8cf3c53230107f44ea9a2d5f31ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New (Refund)</sys_name><sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package><sys_policy/><sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope><sys_update_name>sys_sg_button_instance_db6e8cf3c53230107f44ea9a2d5f31ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-01 09:04:49</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=db6e8cf3c53230107f44ea9a2d5f31ac"/></record_update>]]></payload>
+        <payload_hash>1163866397</payload_hash>
+        <record_name>New (Refund)</record_name>
+        <reverted_from/>
+        <source>407e9157d03230107f44a4aaa02da253</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 09:04:52</sys_created_on>
+        <sys_id>3b6e0037c53230107f44ea9a2d5f3118</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c3b1964510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 09:04:52</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>b36e0037803230107a35cae0231c6918</update_guid>
+        <update_guid_history>b36e0037803230107a35cae0231c6918:1163866397</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 09:40:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>0dbfd7df6f8042b6a4e7c63619342be4</sys_id>
+        <sys_metadata>db6e8cf3c53230107f44ea9a2d5f31ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Refund)</sys_name>
+        <sys_package display_value="Reembolso" source="x_snc_reembolso">8c7e9157d03230107f44a4aaa02da250</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reembolso">8c7e9157d03230107f44a4aaa02da250</sys_scope>
+        <sys_scope_delete display_value="">129bab4e0fe6470082b68a8443cfd4a4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_db6e8cf3c53230107f44ea9a2d5f31ac</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_db6e8cf3c53230107f44ea9a2d5f31ac">3b6e0037c53230107f44ea9a2d5f3118</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 09:40:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
